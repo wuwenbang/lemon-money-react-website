@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lemon-nav-website/static/css/main.7cd66bef.chunk.css",
+    "main.js": "/lemon-nav-website/static/js/main.463b3c7e.chunk.js",
+    "main.js.map": "/lemon-nav-website/static/js/main.463b3c7e.chunk.js.map",
+    "runtime-main.js": "/lemon-nav-website/static/js/runtime-main.fc9ec777.js",
+    "runtime-main.js.map": "/lemon-nav-website/static/js/runtime-main.fc9ec777.js.map",
+    "static/js/2.557a6541.chunk.js": "/lemon-nav-website/static/js/2.557a6541.chunk.js",
+    "static/js/2.557a6541.chunk.js.map": "/lemon-nav-website/static/js/2.557a6541.chunk.js.map",
+    "index.html": "/lemon-nav-website/index.html",
+    "precache-manifest.36cdabb5c5cc40b77a2737fb757f5537.js": "/lemon-nav-website/precache-manifest.36cdabb5c5cc40b77a2737fb757f5537.js",
+    "service-worker.js": "/lemon-nav-website/service-worker.js",
+    "static/css/main.7cd66bef.chunk.css.map": "/lemon-nav-website/static/css/main.7cd66bef.chunk.css.map",
+    "static/js/2.557a6541.chunk.js.LICENSE.txt": "/lemon-nav-website/static/js/2.557a6541.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc9ec777.js",
+    "static/js/2.557a6541.chunk.js",
+    "static/css/main.7cd66bef.chunk.css",
+    "static/js/main.463b3c7e.chunk.js"
+  ]
+}
